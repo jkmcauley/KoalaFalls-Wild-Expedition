@@ -1,3 +1,11 @@
+# Unity .gitignore Template
+# Source: https://github.com/github/gitignore/blob/main/Unity.gitignore
+# Last synced: 2026-07-02
+# License: CC0-1.0
+#
+# This template is maintained from the github/gitignore repository
+# and distributed under Creative Commons Zero v1.0 Universal license.
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -104,3 +112,15 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# IDE / OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# Unity extras in this project
+/ProfilerCaptures/
+
+# Local helper scripts (not part of the game)
+_search_camera.mjs
+_search_camera.py

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c8a41d2e7f0b4a6e9d3c1b5a8e2f4701
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _confetti
+  - {fileID: 1100000004, guid: d4e8c1b7a2f0469e8c3b5d7a1e0f2948, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

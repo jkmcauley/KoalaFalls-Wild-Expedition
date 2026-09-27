@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2019f1d0e596f4cbba27b2750a5b3e5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _snakeClip: {instanceID: 0}
+  - _bearClip: {fileID: 8300000, guid: c9f2fde39ab414461a1f4dc26420ae08, type: 3}
+  - _cougarClip: {fileID: 8300000, guid: 8483c6fe489604d3d924e36862ec91aa, type: 3}
+  - _bearTrapClip: {instanceID: 0}
+  - _gatorClip: {fileID: 8300000, guid: c870fe58011b441a1b5d651b06d8a004, type: 3}
+  - _coinClip: {fileID: 8300000, guid: 488a61b84cc734b7cac9737365aff2da, type: 3}
+  - _winClip: {fileID: 8300000, guid: d8d333f59540f4423bb65b421ad544a8, type: 3}
+  - _shootClip: {fileID: 8300000, guid: 1d8e503389530409fa1ddebb2fae9d8b, type: 3}
+  - _skunkClip: {fileID: 8300000, guid: 6b063ca154e044ceab60c625bca23e5f, type: 3}
+  - _backgroundSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

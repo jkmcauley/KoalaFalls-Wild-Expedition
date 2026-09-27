@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb717f9f884f91d4ea5e65f40d13f3e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194842
+  packageName: Interactive Wind 2D - Grass and Tree Shader
+  packageVersion: 3.5
+  assetPath: Assets/Interactive Wind 2D/Demo/Scripts/DemoPlayer2D.cs
+  uploadId: 962386

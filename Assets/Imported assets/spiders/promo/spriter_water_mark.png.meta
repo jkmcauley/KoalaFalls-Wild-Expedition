@@ -1,0 +1,7462 @@
+fileFormatVersion: 2
+guid: 779a24d1a5198472d85f8f960a38216d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1721627151127917153
+    second: spriter_water_mark_0
+  - first:
+      213: 8966037060751727533
+    second: spriter_water_mark_1
+  - first:
+      213: -6216509992329238653
+    second: spriter_water_mark_2
+  - first:
+      213: -3348308724234470351
+    second: spriter_water_mark_3
+  - first:
+      213: 3746971379474629540
+    second: spriter_water_mark_4
+  - first:
+      213: 4735197134195893418
+    second: spriter_water_mark_5
+  - first:
+      213: 6582844139825235135
+    second: spriter_water_mark_6
+  - first:
+      213: -2730427503007388635
+    second: spriter_water_mark_7
+  - first:
+      213: -3817894492645863721
+    second: spriter_water_mark_8
+  - first:
+      213: 6005679073998937894
+    second: spriter_water_mark_9
+  - first:
+      213: 3266052044662303656
+    second: spriter_water_mark_10
+  - first:
+      213: -7130166619158468239
+    second: spriter_water_mark_11
+  - first:
+      213: -6973354650670646298
+    second: spriter_water_mark_12
+  - first:
+      213: -223147625731217482
+    second: spriter_water_mark_13
+  - first:
+      213: 7299833124076387497
+    second: spriter_water_mark_14
+  - first:
+      213: -176097954318761935
+    second: spriter_water_mark_15
+  - first:
+      213: 8539324786833939333
+    second: spriter_water_mark_16
+  - first:
+      213: -2463901204752359091
+    second: spriter_water_mark_17
+  - first:
+      213: -3932841515418660001
+    second: spriter_water_mark_18
+  - first:
+      213: 6674141817472120008
+    second: spriter_water_mark_19
+  - first:
+      213: 3480768805476653633
+    second: spriter_water_mark_20
+  - first:
+      213: 1842289836952810087
+    second: spriter_water_mark_21
+  - first:
+      213: -6003666459205727167
+    second: spriter_water_mark_22
+  - first:
+      213: -6197237858939788815
+    second: spriter_water_mark_23
+  - first:
+      213: 4929021633736537154
+    second: spriter_water_mark_24
+  - first:
+      213: 2855003522144960516
+    second: spriter_water_mark_25
+  - first:
+      213: 4986113603635793257
+    second: spriter_water_mark_26
+  - first:
+      213: -5438661932794872793
+    second: spriter_water_mark_27
+  - first:
+      213: -6410617517633052508
+    second: spriter_water_mark_28
+  - first:
+      213: 7522412325695064535
+    second: spriter_water_mark_29
+  - first:
+      213: -8601591204120283571
+    second: spriter_water_mark_30
+  - first:
+      213: -1520587524757808806
+    second: spriter_water_mark_31
+  - first:
+      213: -1426157605151717763
+    second: spriter_water_mark_32
+  - first:
+      213: -3163571189711705682
+    second: spriter_water_mark_33
+  - first:
+      213: -8389607452297379517
+    second: spriter_water_mark_34
+  - first:
+      213: -8160588185193119315
+    second: spriter_water_mark_35
+  - first:
+      213: -369722573747124970
+    second: spriter_water_mark_36
+  - first:
+      213: -5011355840351338272
+    second: spriter_water_mark_37
+  - first:
+      213: -336918381152550982
+    second: spriter_water_mark_38
+  - first:
+      213: 6892637915359399785
+    second: spriter_water_mark_39
+  - first:
+      213: 8206988794077471862
+    second: spriter_water_mark_40
+  - first:
+      213: -3173965435190916269
+    second: spriter_water_mark_41
+  - first:
+      213: 7832009325659712481
+    second: spriter_water_mark_42
+  - first:
+      213: -8885495620210154613
+    second: spriter_water_mark_43
+  - first:
+      213: -5611673238063117935
+    second: spriter_water_mark_44
+  - first:
+      213: -8997558567704666357
+    second: spriter_water_mark_45
+  - first:
+      213: 5730779471212883622
+    second: spriter_water_mark_46
+  - first:
+      213: 5824034958387526143
+    second: spriter_water_mark_47
+  - first:
+      213: -2416485125502776876
+    second: spriter_water_mark_48
+  - first:
+      213: -385075684234957815
+    second: spriter_water_mark_49
+  - first:
+      213: -1318264280551006803
+    second: spriter_water_mark_50
+  - first:
+      213: 7698267271066828080
+    second: spriter_water_mark_51
+  - first:
+      213: -6415090148710257794
+    second: spriter_water_mark_52
+  - first:
+      213: -8785208036232687315
+    second: spriter_water_mark_53
+  - first:
+      213: 6397976672675588869
+    second: spriter_water_mark_54
+  - first:
+      213: 202659198630220769
+    second: spriter_water_mark_55
+  - first:
+      213: 8129850258450175509
+    second: spriter_water_mark_56
+  - first:
+      213: 7005194218223631079
+    second: spriter_water_mark_57
+  - first:
+      213: 1180138302862387543
+    second: spriter_water_mark_58
+  - first:
+      213: 6833728286776528140
+    second: spriter_water_mark_59
+  - first:
+      213: -6463329626712677575
+    second: spriter_water_mark_60
+  - first:
+      213: -3578356982283335849
+    second: spriter_water_mark_61
+  - first:
+      213: 8246473760832595212
+    second: spriter_water_mark_62
+  - first:
+      213: 1851840444381091256
+    second: spriter_water_mark_63
+  - first:
+      213: 8265127329015477103
+    second: spriter_water_mark_64
+  - first:
+      213: -6530735717737351719
+    second: spriter_water_mark_65
+  - first:
+      213: 7729577565086158458
+    second: spriter_water_mark_66
+  - first:
+      213: 6962035097508691769
+    second: spriter_water_mark_67
+  - first:
+      213: -410840808298351383
+    second: spriter_water_mark_68
+  - first:
+      213: 2383069083642215746
+    second: spriter_water_mark_69
+  - first:
+      213: 1660832759943160633
+    second: spriter_water_mark_70
+  - first:
+      213: -7288747922366430763
+    second: spriter_water_mark_71
+  - first:
+      213: 4253300802021498621
+    second: spriter_water_mark_72
+  - first:
+      213: 9108114963190581400
+    second: spriter_water_mark_73
+  - first:
+      213: -6746531011718224246
+    second: spriter_water_mark_74
+  - first:
+      213: 7411476879534508902
+    second: spriter_water_mark_75
+  - first:
+      213: 1526243201538164956
+    second: spriter_water_mark_76
+  - first:
+      213: 3934721841793696156
+    second: spriter_water_mark_77
+  - first:
+      213: 6442628647845880343
+    second: spriter_water_mark_78
+  - first:
+      213: -6512021581612147797
+    second: spriter_water_mark_79
+  - first:
+      213: -8558287278208629792
+    second: spriter_water_mark_80
+  - first:
+      213: -7782485171096521634
+    second: spriter_water_mark_81
+  - first:
+      213: -6682458227326239673
+    second: spriter_water_mark_82
+  - first:
+      213: -1386511440087983605
+    second: spriter_water_mark_83
+  - first:
+      213: 4126350197320017073
+    second: spriter_water_mark_84
+  - first:
+      213: 6068975305325101340
+    second: spriter_water_mark_85
+  - first:
+      213: 206151474722069124
+    second: spriter_water_mark_86
+  - first:
+      213: 4958252402931143905
+    second: spriter_water_mark_87
+  - first:
+      213: -3235556720051257763
+    second: spriter_water_mark_88
+  - first:
+      213: -5551355670410655964
+    second: spriter_water_mark_89
+  - first:
+      213: 7903359309668031747
+    second: spriter_water_mark_90
+  - first:
+      213: 1083951064816846360
+    second: spriter_water_mark_91
+  - first:
+      213: 2570792955853585396
+    second: spriter_water_mark_92
+  - first:
+      213: -6449840728452604612
+    second: spriter_water_mark_93
+  - first:
+      213: -3236813984200297432
+    second: spriter_water_mark_94
+  - first:
+      213: -3304615818712043741
+    second: spriter_water_mark_95
+  - first:
+      213: -4020618160717234644
+    second: spriter_water_mark_96
+  - first:
+      213: 7932365713860362038
+    second: spriter_water_mark_97
+  - first:
+      213: -8295534712482471511
+    second: spriter_water_mark_98
+  - first:
+      213: 8492110637509144538
+    second: spriter_water_mark_99
+  - first:
+      213: -463232301870854508
+    second: spriter_water_mark_100
+  - first:
+      213: 4887481351329277159
+    second: spriter_water_mark_101
+  - first:
+      213: 1750861640301779043
+    second: spriter_water_mark_102
+  - first:
+      213: 6220068161689729210
+    second: spriter_water_mark_103
+  - first:
+      213: -4118684340053431268
+    second: spriter_water_mark_104
+  - first:
+      213: -8731104204326383554
+    second: spriter_water_mark_105
+  - first:
+      213: 8263321843550013325
+    second: spriter_water_mark_106
+  - first:
+      213: 1522566155300385910
+    second: spriter_water_mark_107
+  - first:
+      213: 8485347107172910438
+    second: spriter_water_mark_108
+  - first:
+      213: -8677512327463154690
+    second: spriter_water_mark_109
+  - first:
+      213: -3772901918053375841
+    second: spriter_water_mark_110
+  - first:
+      213: -2928120631523284142
+    second: spriter_water_mark_111
+  - first:
+      213: 2411879806363376521
+    second: spriter_water_mark_112
+  - first:
+      213: -1042052183341215142
+    second: spriter_water_mark_113
+  - first:
+      213: 2975739372268294307
+    second: spriter_water_mark_114
+  - first:
+      213: 8005293614425709880
+    second: spriter_water_mark_115
+  - first:
+      213: -7745185003081092706
+    second: spriter_water_mark_116
+  - first:
+      213: -940628691816618864
+    second: spriter_water_mark_117
+  - first:
+      213: -1179047447976832525
+    second: spriter_water_mark_118
+  - first:
+      213: -1540627528637554808
+    second: spriter_water_mark_119
+  - first:
+      213: 6079451630948904786
+    second: spriter_water_mark_120
+  - first:
+      213: -3287551950440039854
+    second: spriter_water_mark_121
+  - first:
+      213: 2998910403352150632
+    second: spriter_water_mark_122
+  - first:
+      213: 5106167538126754491
+    second: spriter_water_mark_123
+  - first:
+      213: 1571109114036726535
+    second: spriter_water_mark_124
+  - first:
+      213: 8436539297889850727
+    second: spriter_water_mark_125
+  - first:
+      213: -2932797776097689591
+    second: spriter_water_mark_126
+  - first:
+      213: -4317619082111700934
+    second: spriter_water_mark_127
+  - first:
+      213: 4014360396635926515
+    second: spriter_water_mark_128
+  - first:
+      213: 2806577246797944909
+    second: spriter_water_mark_129
+  - first:
+      213: -8737872718541501720
+    second: spriter_water_mark_130
+  - first:
+      213: 2804302604428924539
+    second: spriter_water_mark_131
+  - first:
+      213: -2305027149274421116
+    second: spriter_water_mark_132
+  - first:
+      213: -6540676188135102602
+    second: spriter_water_mark_133
+  - first:
+      213: -6653451012901188137
+    second: spriter_water_mark_134
+  - first:
+      213: 4851615550951931494
+    second: spriter_water_mark_135
+  - first:
+      213: 2894180806701743883
+    second: spriter_water_mark_136
+  - first:
+      213: -6129303118064461212
+    second: spriter_water_mark_137
+  - first:
+      213: -8086705393816301490
+    second: spriter_water_mark_138
+  - first:
+      213: -7007352087774602627
+    second: spriter_water_mark_139
+  - first:
+      213: -4323726763182574222
+    second: spriter_water_mark_140
+  - first:
+      213: 5839712823061385252
+    second: spriter_water_mark_141
+  - first:
+      213: -8428543733835670291
+    second: spriter_water_mark_142
+  - first:
+      213: -2126166147501173216
+    second: spriter_water_mark_143
+  - first:
+      213: 8718687596513071738
+    second: spriter_water_mark_144
+  - first:
+      213: -1564675766130589350
+    second: spriter_water_mark_145
+  - first:
+      213: 7815986107010179223
+    second: spriter_water_mark_146
+  - first:
+      213: -172280362001473748
+    second: spriter_water_mark_147
+  - first:
+      213: 7151154199484886789
+    second: spriter_water_mark_148
+  - first:
+      213: -503701464334496535
+    second: spriter_water_mark_149
+  - first:
+      213: 4956434806612148416
+    second: spriter_water_mark_150
+  - first:
+      213: 1858733849612240475
+    second: spriter_water_mark_151
+  - first:
+      213: -8909541892551565516
+    second: spriter_water_mark_152
+  - first:
+      213: -1013191899882109030
+    second: spriter_water_mark_153
+  - first:
+      213: 4296624354989357531
+    second: spriter_water_mark_154
+  - first:
+      213: -4055238595432208887
+    second: spriter_water_mark_155
+  - first:
+      213: -7417592644867126336
+    second: spriter_water_mark_156
+  - first:
+      213: 2277510962055260230
+    second: spriter_water_mark_157
+  - first:
+      213: -7441386887871389585
+    second: spriter_water_mark_158
+  - first:
+      213: 7219123464051511764
+    second: spriter_water_mark_159
+  - first:
+      213: 812425819268970874
+    second: spriter_water_mark_160
+  - first:
+      213: -7142381341173558312
+    second: spriter_water_mark_161
+  - first:
+      213: -4938052445775051141
+    second: spriter_water_mark_162
+  - first:
+      213: 1509885074681123307
+    second: spriter_water_mark_163
+  - first:
+      213: 3359320896043975249
+    second: spriter_water_mark_164
+  - first:
+      213: -812622954427170023
+    second: spriter_water_mark_165
+  - first:
+      213: 4868394435184806549
+    second: spriter_water_mark_166
+  - first:
+      213: -7757789558420765272
+    second: spriter_water_mark_167
+  - first:
+      213: 7466689554497141119
+    second: spriter_water_mark_168
+  - first:
+      213: -1323920331885368688
+    second: spriter_water_mark_169
+  - first:
+      213: 6153767808034045849
+    second: spriter_water_mark_170
+  - first:
+      213: 4995093541019808853
+    second: spriter_water_mark_171
+  - first:
+      213: 8767333321806979412
+    second: spriter_water_mark_172
+  - first:
+      213: -829653995721426418
+    second: spriter_water_mark_173
+  - first:
+      213: -3313718589976940938
+    second: spriter_water_mark_174
+  - first:
+      213: 5871631579963457817
+    second: spriter_water_mark_175
+  - first:
+      213: -1206214340127770452
+    second: spriter_water_mark_176
+  - first:
+      213: 6904665511955281965
+    second: spriter_water_mark_177
+  - first:
+      213: -4921323191540227485
+    second: spriter_water_mark_178
+  - first:
+      213: 7990654488371881989
+    second: spriter_water_mark_179
+  - first:
+      213: -4218063976215025290
+    second: spriter_water_mark_180
+  - first:
+      213: 8749283814666291279
+    second: spriter_water_mark_181
+  - first:
+      213: 1727402805665855040
+    second: spriter_water_mark_182
+  - first:
+      213: 2380756786512645408
+    second: spriter_water_mark_183
+  - first:
+      213: 671778215733679495
+    second: spriter_water_mark_184
+  - first:
+      213: 4336591694427197493
+    second: spriter_water_mark_185
+  - first:
+      213: 253837756223527671
+    second: spriter_water_mark_186
+  - first:
+      213: -1009827007483296499
+    second: spriter_water_mark_187
+  - first:
+      213: -2342243223336143659
+    second: spriter_water_mark_188
+  - first:
+      213: -7319808249919828028
+    second: spriter_water_mark_189
+  - first:
+      213: -3344509192835704671
+    second: spriter_water_mark_190
+  - first:
+      213: -177293052673070321
+    second: spriter_water_mark_191
+  - first:
+      213: -7191325125711537388
+    second: spriter_water_mark_192
+  - first:
+      213: 3616049192483341294
+    second: spriter_water_mark_193
+  - first:
+      213: 5280762933436093627
+    second: spriter_water_mark_194
+  - first:
+      213: 7538510722556718401
+    second: spriter_water_mark_195
+  - first:
+      213: -5325283830044082219
+    second: spriter_water_mark_196
+  - first:
+      213: -1061806995841543271
+    second: spriter_water_mark_197
+  - first:
+      213: -5507149021101371802
+    second: spriter_water_mark_198
+  - first:
+      213: -2647575532371605943
+    second: spriter_water_mark_199
+  - first:
+      213: -5157280677906112740
+    second: spriter_water_mark_200
+  - first:
+      213: -4165024445697247978
+    second: spriter_water_mark_201
+  - first:
+      213: 7807843702561891372
+    second: spriter_water_mark_202
+  - first:
+      213: 3239730637270260444
+    second: spriter_water_mark_203
+  - first:
+      213: -1011080897492287806
+    second: spriter_water_mark_204
+  - first:
+      213: 6999641533834398465
+    second: spriter_water_mark_205
+  - first:
+      213: -863780041211893327
+    second: spriter_water_mark_206
+  - first:
+      213: 6542098220776889955
+    second: spriter_water_mark_207
+  - first:
+      213: -1137235801297301699
+    second: spriter_water_mark_208
+  - first:
+      213: 193029451156696389
+    second: spriter_water_mark_209
+  - first:
+      213: 8160828064062086573
+    second: spriter_water_mark_210
+  - first:
+      213: -1574327435887828488
+    second: spriter_water_mark_211
+  - first:
+      213: -5114658040265091981
+    second: spriter_water_mark_212
+  - first:
+      213: -1846806062320327733
+    second: spriter_water_mark_213
+  - first:
+      213: 507667911322890225
+    second: spriter_water_mark_214
+  - first:
+      213: -8893809238204019278
+    second: spriter_water_mark_215
+  - first:
+      213: 7211729862399028557
+    second: spriter_water_mark_216
+  - first:
+      213: 7726449677480576020
+    second: spriter_water_mark_217
+  - first:
+      213: -3578258426861611072
+    second: spriter_water_mark_218
+  - first:
+      213: -7352498297352079735
+    second: spriter_water_mark_219
+  - first:
+      213: -7629424468806791724
+    second: spriter_water_mark_220
+  - first:
+      213: -1892818812056552277
+    second: spriter_water_mark_221
+  - first:
+      213: 1459593126013023254
+    second: spriter_water_mark_222
+  - first:
+      213: 4830697691547173905
+    second: spriter_water_mark_223
+  - first:
+      213: -7680762384044976590
+    second: spriter_water_mark_224
+  - first:
+      213: -3130329644852097226
+    second: spriter_water_mark_225
+  - first:
+      213: -1921081892116386521
+    second: spriter_water_mark_226
+  - first:
+      213: 5732632436043210890
+    second: spriter_water_mark_227
+  - first:
+      213: -7613208452122417758
+    second: spriter_water_mark_228
+  - first:
+      213: -191033770166706666
+    second: spriter_water_mark_229
+  - first:
+      213: -2977460233512470353
+    second: spriter_water_mark_230
+  - first:
+      213: 1521560414027709478
+    second: spriter_water_mark_231
+  - first:
+      213: -388555710214089070
+    second: spriter_water_mark_232
+  - first:
+      213: -1998593888219716721
+    second: spriter_water_mark_233
+  - first:
+      213: -2399082300943116958
+    second: spriter_water_mark_234
+  - first:
+      213: -9112513460782350931
+    second: spriter_water_mark_235
+  - first:
+      213: -7124383455427168926
+    second: spriter_water_mark_236
+  - first:
+      213: 5360642693813120629
+    second: spriter_water_mark_237
+  - first:
+      213: -23013945418131092
+    second: spriter_water_mark_238
+  - first:
+      213: -2264900557959623962
+    second: spriter_water_mark_239
+  - first:
+      213: -1864297606578373616
+    second: spriter_water_mark_240
+  - first:
+      213: 1770652780233631078
+    second: spriter_water_mark_241
+  - first:
+      213: -7545056397374551928
+    second: spriter_water_mark_242
+  - first:
+      213: 6079445986910621463
+    second: spriter_water_mark_243
+  - first:
+      213: 1436078635571837690
+    second: spriter_water_mark_244
+  - first:
+      213: 5985090539207176025
+    second: spriter_water_mark_245
+  - first:
+      213: -1745648799909196107
+    second: spriter_water_mark_246
+  - first:
+      213: -9125683603168695643
+    second: spriter_water_mark_247
+  - first:
+      213: 6281418406220086887
+    second: spriter_water_mark_248
+  - first:
+      213: 7990486923110323170
+    second: spriter_water_mark_249
+  - first:
+      213: 4340286301908672922
+    second: spriter_water_mark_250
+  - first:
+      213: -3881951011145183998
+    second: spriter_water_mark_251
+  - first:
+      213: -6839752034027195917
+    second: spriter_water_mark_252
+  - first:
+      213: 3219844440143117666
+    second: spriter_water_mark_253
+  - first:
+      213: 1469421560094495733
+    second: spriter_water_mark_254
+  - first:
+      213: -5395802437404849099
+    second: spriter_water_mark_255
+  - first:
+      213: -886880992971266449
+    second: spriter_water_mark_256
+  - first:
+      213: -7930851697059578946
+    second: spriter_water_mark_257
+  - first:
+      213: -2162660140763654226
+    second: spriter_water_mark_258
+  - first:
+      213: -6586916398231843452
+    second: spriter_water_mark_259
+  - first:
+      213: 7554866213076541504
+    second: spriter_water_mark_260
+  - first:
+      213: 617667537370751947
+    second: spriter_water_mark_261
+  - first:
+      213: 5388680524685935730
+    second: spriter_water_mark_262
+  - first:
+      213: -7388335209641816620
+    second: spriter_water_mark_263
+  - first:
+      213: -8636557835711622478
+    second: spriter_water_mark_264
+  - first:
+      213: -8131788769792988759
+    second: spriter_water_mark_265
+  - first:
+      213: -2798494283738540053
+    second: spriter_water_mark_266
+  - first:
+      213: -3480905936612941850
+    second: spriter_water_mark_267
+  - first:
+      213: -4595138906525212441
+    second: spriter_water_mark_268
+  - first:
+      213: -6923393519582115904
+    second: spriter_water_mark_269
+  - first:
+      213: 8675954176605338832
+    second: spriter_water_mark_270
+  - first:
+      213: -5679813026310420002
+    second: spriter_water_mark_271
+  - first:
+      213: 3871500993969423230
+    second: spriter_water_mark_272
+  - first:
+      213: 3456075798754519275
+    second: spriter_water_mark_273
+  - first:
+      213: 1183848430228047080
+    second: spriter_water_mark_274
+  - first:
+      213: 8622169095317800510
+    second: spriter_water_mark_275
+  - first:
+      213: 8304394265627360377
+    second: spriter_water_mark_276
+  - first:
+      213: -3178505170388296173
+    second: spriter_water_mark_277
+  - first:
+      213: -4825538634156064171
+    second: spriter_water_mark_278
+  - first:
+      213: 6344375108208218536
+    second: spriter_water_mark_279
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriter_water_mark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 809
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4a554a3d8b18e0800000000000000
+      internalID: -1721627151127917153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab1811e333cd6c70800000000000000
+      internalID: 8966037060751727533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ac8439158ab9a0800000000000000
+      internalID: -6216509992329238653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 809
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cb9a594fa6881d0800000000000000
+      internalID: -3348308724234470351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a304290e9aeff330800000000000000
+      internalID: 3746971379474629540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 809
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a13594bcc6b140800000000000000
+      internalID: 4735197134195893418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48b062ed5fa5b50800000000000000
+      internalID: 6582844139825235135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ca94607a29b1ad0800000000000000
+      internalID: -2730427503007388635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_8
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 809
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de4cefdf2d140bc0800000000000000
+      internalID: -3817894492645863721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 809
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f14b06c45785350800000000000000
+      internalID: 6005679073998937894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 809
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe804c709535d20800000000000000
+      internalID: 3266052044662303656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17926b3bc3f8c0d90800000000000000
+      internalID: -7130166619158468239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb35f144eaa93f90800000000000000
+      internalID: -6973354650670646298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7a1dbaa6837ecf0800000000000000
+      internalID: -223147625731217482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_14
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acf338dc873e4560800000000000000
+      internalID: 7299833124076387497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304823f7df5e8df0800000000000000
+      internalID: -176097954318761935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_16
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bdcec76a6c18670800000000000000
+      internalID: 8539324786833939333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_17
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 809
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41241998e67ecdd0800000000000000
+      internalID: -2463901204752359091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 809
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53df839a7dbb69c0800000000000000
+      internalID: -3932841515418660001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_19
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 809
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c471033f905f9c50800000000000000
+      internalID: 6674141817472120008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_20
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a52b369cc2e4030800000000000000
+      internalID: 3480768805476653633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_21
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76272e888d0219910800000000000000
+      internalID: 1842289836952810087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_22
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 809
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c8d150a21beaca0800000000000000
+      internalID: -6003666459205727167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_23
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1aa4d600dfef9a0800000000000000
+      internalID: -6197237858939788815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_24
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 809
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244f4119f07676440800000000000000
+      internalID: 4929021633736537154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_25
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40080f1b3920f9720800000000000000
+      internalID: 2855003522144960516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_26
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 809
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d447aa7eb323540800000000000000
+      internalID: 4986113603635793257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_27
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 809
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c725299cdf584b0800000000000000
+      internalID: -5438661932794872793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e5962559e807a0800000000000000
+      internalID: -6410617517633052508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9031f972af46860800000000000000
+      internalID: 7522412325695064535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46394f7f5201a880800000000000000
+      internalID: -8601591204120283571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 705
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599be0e3b9c5eae0800000000000000
+      internalID: -1520587524757808806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c537d635453ce0800000000000000
+      internalID: -1426157605151717763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 705
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9e297a3ccb814d0800000000000000
+      internalID: -3163571189711705682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34148d0e870229b80800000000000000
+      internalID: -8389607452297379517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1805f3844cfbe80800000000000000
+      internalID: -8160588185193119315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_36
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 705
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6150c5e274b7edaf0800000000000000
+      internalID: -369722573747124970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_37
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 705
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e087cc1a66147ab0800000000000000
+      internalID: -5011355840351338272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_38
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 705
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf3a157486035bf0800000000000000
+      internalID: -336918381152550982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_39
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fc26e4aa197af50800000000000000
+      internalID: 6892637915359399785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_40
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674699263d415e170800000000000000
+      internalID: 8206988794077471862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bc31ac04fc3f3d0800000000000000
+      internalID: -3173965435190916269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_42
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6e756cf2e0bc60800000000000000
+      internalID: 7832009325659712481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_43
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a5109fc060b480800000000000000
+      internalID: -8885495620210154613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_44
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1998ea10ce45f12b0800000000000000
+      internalID: -5611673238063117935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_45
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 705
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fd03e5720422380800000000000000
+      internalID: -8997558567704666357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_46
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 705
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeaebbe091d78f40800000000000000
+      internalID: 5730779471212883622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_47
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 705
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9352600f023d050800000000000000
+      internalID: 5824034958387526143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_48
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94469d49be67ed0800000000000000
+      internalID: -2416485125502776876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_49
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce88594bfe7aaf0800000000000000
+      internalID: -385075684234957815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_50
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 705
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daddbad0f9594bde0800000000000000
+      internalID: -1318264280551006803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_51
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d34fdbb4db5da60800000000000000
+      internalID: 7698267271066828080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_52
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 705
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b64049f7509f6a0800000000000000
+      internalID: -6415090148710257794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_53
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21917a46dba41680800000000000000
+      internalID: -8785208036232687315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_54
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 705
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b6018c2ed2ac850800000000000000
+      internalID: 6397976672675588869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_55
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 705
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d1d8a77dffc200800000000000000
+      internalID: 202659198630220769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5165a0c7cb703d070800000000000000
+      internalID: 8129850258450175509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaf6dfb603773160800000000000000
+      internalID: 7005194218223631079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e1f7a881b06010800000000000000
+      internalID: 1180138302862387543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 600
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8ad09ba746de50800000000000000
+      internalID: 6833728286776528140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933688dd2f3ad46a0800000000000000
+      internalID: -6463329626712677575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 600
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578677984f175ec0800000000000000
+      internalID: -3578356982283335849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_62
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05a10c913c517270800000000000000
+      internalID: 8246473760832595212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_63
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5590c921f03b910800000000000000
+      internalID: 1851840444381091256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 600
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f633755e381a3b270800000000000000
+      internalID: 8265127329015477103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_65
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 600
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d53f4e477a2e55a0800000000000000
+      internalID: -6530735717737351719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 600
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e0ac6a7d9f44b60800000000000000
+      internalID: 7729577565086158458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_67
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fbec4e80e1e9060800000000000000
+      internalID: 6962035097508691769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_68
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4742a26766c4af0800000000000000
+      internalID: -410840808298351383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24db5bd94bc521120800000000000000
+      internalID: 2383069083642215746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_70
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336ebf78967c0710800000000000000
+      internalID: 1660832759943160633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_71
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18bfdc16a29da90800000000000000
+      internalID: -7288747922366430763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_72
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe10636b82c60b30800000000000000
+      internalID: 4253300802021498621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_73
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 600
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898056a5d46866e70800000000000000
+      internalID: 9108114963190581400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_74
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 600
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e06c1ac18f52a0800000000000000
+      internalID: -6746531011718224246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_75
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 600
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bcca944fadad660800000000000000
+      internalID: 7411476879534508902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_76
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8898cfa1e4e2510800000000000000
+      internalID: 1526243201538164956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_77
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9185160ba0fa9630800000000000000
+      internalID: 3934721841793696156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_78
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 600
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712eb96ee90d86950800000000000000
+      internalID: 6442628647845880343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_79
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab945aafd6a0a5a0800000000000000
+      internalID: -6512021581612147797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_80
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 600
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e341a0701bda3980800000000000000
+      internalID: -8558287278208629792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_81
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54fb0368fe0ff390800000000000000
+      internalID: -7782485171096521634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_82
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 600
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c35ddb5a32343a0800000000000000
+      internalID: -6682458227326239673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_83
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 600
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5a88f03f12cce0800000000000000
+      internalID: -1386511440087983605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46f1264adb34930800000000000000
+      internalID: 4126350197320017073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c114588a2e4593450800000000000000
+      internalID: 6068975305325101340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5bbc8ca56cd200800000000000000
+      internalID: 206151474722069124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4107f5a404fc440800000000000000
+      internalID: 4958252402931143905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e77ba4e4ef813d0800000000000000
+      internalID: -3235556720051257763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_89
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 496
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427825b1e6f95f2b0800000000000000
+      internalID: -5551355670410655964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1a091b6f5ead60800000000000000
+      internalID: 7903359309668031747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_91
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816805c10c7fa0f00800000000000000
+      internalID: 1083951064816846360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_92
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 496
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbbabc929a4da320800000000000000
+      internalID: 2570792955853585396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_93
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 496
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5cbab7009d76a0800000000000000
+      internalID: -6449840728452604612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_94
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 496
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82479bba4d68413d0800000000000000
+      internalID: -3236813984200297432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_95
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2886eb65a322d0800000000000000
+      internalID: -3304615818712043741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_96
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef6f0c515e338c0800000000000000
+      internalID: -4020618160717234644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_97
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f722bd69c651e60800000000000000
+      internalID: 7932365713860362038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_98
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16f80712750ec80800000000000000
+      internalID: -8295534712482471511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_99
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf6c06b1a90ad570800000000000000
+      internalID: 8492110637509144538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_100
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e408efca44299f0800000000000000
+      internalID: -463232301870854508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_101
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 496
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e350e462d3d340800000000000000
+      internalID: 4887481351329277159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_102
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3689b09a26f4c4810800000000000000
+      internalID: 1750861640301779043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_103
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 496
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8bb38a90f125650800000000000000
+      internalID: 6220068161689729210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_104
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca6291a6e77d6c0800000000000000
+      internalID: -4118684340053431268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_105
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30d43c4cf2e4d680800000000000000
+      internalID: -8731104204326383554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_106
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 496
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87468d8f673da270800000000000000
+      internalID: 8263321843550013325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_107
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67436b1f9dd312510800000000000000
+      internalID: 1522566155300385910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_108
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 496
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650ee69c3202c570800000000000000
+      internalID: 8485347107172910438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_109
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4c7b7388439780800000000000000
+      internalID: -8677512327463154690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_110
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 496
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90e90af1b5f3abc0800000000000000
+      internalID: -3772901918053375841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_111
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 496
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bef8aacc93d57d0800000000000000
+      internalID: -2928120631523284142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b1a3bb7e7b87120800000000000000
+      internalID: 2411879806363376521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_113
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d68e6f03e981f0800000000000000
+      internalID: -1042052183341215142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_114
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a012346133fb4920800000000000000
+      internalID: 2975739372268294307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 433
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d1c82e024881f60800000000000000
+      internalID: 8005293614425709880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913ba38643938490800000000000000
+      internalID: -7745185003081092706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_117
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 433
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094eabe303732f2f0800000000000000
+      internalID: -940628691816618864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_118
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1920ac79e23afe0800000000000000
+      internalID: -1179047447976832525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_119
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fde50ec679e9ae0800000000000000
+      internalID: -1540627528637554808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_120
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 433
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe0eb4c0d8e5450800000000000000
+      internalID: 6079451630948904786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_121
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 433
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af0655be44062d0800000000000000
+      internalID: -3287551950440039854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_122
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 433
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86247097f154e9920800000000000000
+      internalID: 2998910403352150632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_123
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb21da18250ccd640800000000000000
+      internalID: 5106167538126754491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_124
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba9854a63bdc510800000000000000
+      internalID: 1571109114036726535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_125
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7651950facb941570800000000000000
+      internalID: 8436539297889850727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_126
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90044a516fb9c47d0800000000000000
+      internalID: -2932797776097689591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_127
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30b84f025cb414c0800000000000000
+      internalID: -4317619082111700934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_128
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff61e1038fd5b730800000000000000
+      internalID: 4014360396635926515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_129
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 433
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48d516d227f2f620800000000000000
+      internalID: 2806577246797944909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_130
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 433
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac1c6ce07dcb680800000000000000
+      internalID: -8737872718541501720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_131
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 433
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7650b36c52eae620800000000000000
+      internalID: 2804302604428924539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_132
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488edd13506e200e0800000000000000
+      internalID: -2305027149274421116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_133
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677e95f29a9da35a0800000000000000
+      internalID: -6540676188135102602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_134
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 433
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddcf852e813aa3a0800000000000000
+      internalID: -6653451012901188137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_135
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e304d73a6645340800000000000000
+      internalID: 4851615550951931494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_136
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 433
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ff5331c123a2820800000000000000
+      internalID: 2894180806701743883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_137
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad21fd94750faa0800000000000000
+      internalID: -6129303118064461212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_138
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 433
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40185e1a4046cf80800000000000000
+      internalID: -8086705393816301490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_139
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 433
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a5a181762e0ce90800000000000000
+      internalID: -7007352087774602627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27537aeba690ff3c0800000000000000
+      internalID: -4323726763182574222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_141
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4201ed85fd3da0150800000000000000
+      internalID: 5839712823061385252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_142
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec51e2612cc70b80800000000000000
+      internalID: -8428543733835670291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_143
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 374
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0265bbc57275e72e0800000000000000
+      internalID: -2126166147501173216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_144
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7214c9ec200ff870800000000000000
+      internalID: 8718687596513071738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_145
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 374
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51cf134ea7294ae0800000000000000
+      internalID: -1564675766130589350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_146
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790eab514f5f77c60800000000000000
+      internalID: 7815986107010179223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_147
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f502d6cefeb9df0800000000000000
+      internalID: -172280362001473748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_148
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 374
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe6522bd00e3360800000000000000
+      internalID: 7151154199484886789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_149
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 374
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec8f79df2e7209f0800000000000000
+      internalID: -503701464334496535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_150
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 374
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0cf70423bc8c440800000000000000
+      internalID: 4956434806612148416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_151
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56c126969c8bc910800000000000000
+      internalID: 1858733849612240475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_152
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f900f7ad2fa5480800000000000000
+      internalID: -8909541892551565516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_153
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97493ec55b60f1f0800000000000000
+      internalID: -1013191899882109030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_154
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9be6c161da0ab30800000000000000
+      internalID: 4296624354989357531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_155
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062fc7abf5e8b7c0800000000000000
+      internalID: -4055238595432208887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_156
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb05222aca6f0990800000000000000
+      internalID: -7417592644867126336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_157
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 374
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648ac5937285b9f10800000000000000
+      internalID: 2277510962055260230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_158
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 374
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f602d283d02eab890800000000000000
+      internalID: -7441386887871389585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_159
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 374
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15a70ca8a7f2460800000000000000
+      internalID: 7219123464051511764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_160
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79f1eb6af0564b00800000000000000
+      internalID: 812425819268970874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_161
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d8fc130a21ec90800000000000000
+      internalID: -7142381341173558312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_162
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 374
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b764457a673887bb0800000000000000
+      internalID: -4938052445775051141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_163
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be15808c97034f410800000000000000
+      internalID: 1509885074681123307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_164
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 374
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528f377e84be9e20800000000000000
+      internalID: 3359320896043975249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_165
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9134a097abbf8b4f0800000000000000
+      internalID: -812622954427170023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_166
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 374
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59acda7e1f2009340800000000000000
+      internalID: 4868394435184806549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_167
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 374
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a58818cf7bc65490800000000000000
+      internalID: -7757789558420765272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79fbefe6920f9760800000000000000
+      internalID: 7466689554497141119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_169
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2e0bf87d70ade0800000000000000
+      internalID: -1323920331885368688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_170
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f7a14a733966550800000000000000
+      internalID: 6153767808034045849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_171
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 270
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55475544c13225540800000000000000
+      internalID: 4995093541019808853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_172
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45120c17433dba970800000000000000
+      internalID: 8767333321806979412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_173
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a7a8a261a7c74f0800000000000000
+      internalID: -829653995721426418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_174
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee0decf7e4302d0800000000000000
+      internalID: -3313718589976940938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_175
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91100bf00d93c7150800000000000000
+      internalID: 5871631579963457817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_176
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 270
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8b3bdc27aa24fe0800000000000000
+      internalID: -1206214340127770452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_177
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 270
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d283cfc53bc42df50800000000000000
+      internalID: 6904665511955281965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_178
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 270
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3626a5fa1a2f3bbb0800000000000000
+      internalID: -4921323191540227485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_179
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508694ebbe184ee60800000000000000
+      internalID: 7990654488371881989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_180
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679e4d1792d6675c0800000000000000
+      internalID: -4218063976215025290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_181
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4842441643bb6970800000000000000
+      internalID: 8749283814666291279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_182
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f9b713b7f8f710800000000000000
+      internalID: 1727402805665855040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_183
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dcfacfea52a0120800000000000000
+      internalID: 2380756786512645408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_184
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d6ac5ab2a25900800000000000000
+      internalID: 671778215733679495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_185
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 270
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5301e3a7b2bae2c30800000000000000
+      internalID: 4336591694427197493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_186
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa194a2810d58300800000000000000
+      internalID: 253837756223527671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_187
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 270
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05cc5edfaf5cf1f0800000000000000
+      internalID: -1009827007483296499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_188
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4bb77b23eae7fd0800000000000000
+      internalID: -2342243223336143659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_189
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf0e8fbd21da6a90800000000000000
+      internalID: -7319808249919828028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_190
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 270
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8dffceb9ae591d0800000000000000
+      internalID: -3344509192835704671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_191
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be64e68e02a8df0800000000000000
+      internalID: -177293052673070321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_192
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 270
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5f9146e7433c90800000000000000
+      internalID: -7191325125711537388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_193
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ce48f499ce2230800000000000000
+      internalID: 3616049192483341294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_194
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 270
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41286c8e9094940800000000000000
+      internalID: 5280762933436093627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_195
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 270
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d6779bf8b2e9860800000000000000
+      internalID: 7538510722556718401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df3716329ac816b0800000000000000
+      internalID: -5325283830044082219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_197
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99317d8b924b341f0800000000000000
+      internalID: -1061806995841543271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_198
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ecc18b42da293b0800000000000000
+      internalID: -5507149021101371802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_199
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 166
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94689fca41ce14bd0800000000000000
+      internalID: -2647575532371605943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_200
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9b624c88ad68b0800000000000000
+      internalID: -5157280677906112740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_201
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 166
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615b569755cd236c0800000000000000
+      internalID: -4165024445697247978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_202
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24e8f0da780b5c60800000000000000
+      internalID: 7807843702561891372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_203
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda917a89d5d5fc20800000000000000
+      internalID: 3239730637270260444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_204
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 166
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cef9c9d74be7f1f0800000000000000
+      internalID: -1011080897492287806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_205
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 166
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b054ba3e8b32160800000000000000
+      internalID: 6999641533834398465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_206
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 166
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b92e7701ac3304f0800000000000000
+      internalID: -863780041211893327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_207
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e1f179ba33aca50800000000000000
+      internalID: 6542098220776889955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_208
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f41d5601ab730f0800000000000000
+      internalID: -1137235801297301699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_209
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d226b5347cda200800000000000000
+      internalID: 193029451156696389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_210
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad9577e2e5114170800000000000000
+      internalID: 8160828064062086573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_211
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f121c7c98dd62ae0800000000000000
+      internalID: -1574327435887828488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_212
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374576a6c951509b0800000000000000
+      internalID: -5114658040265091981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_213
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 166
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3eb5ecba3de56e0800000000000000
+      internalID: -1846806062320327733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_214
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 166
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe34e86499b0700800000000000000
+      internalID: 507667911322890225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_215
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 166
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd03c88e97d29480800000000000000
+      internalID: -8893809238204019278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_216
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dee58b916351460800000000000000
+      internalID: 7211729862399028557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_217
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41449219b0dd93b60800000000000000
+      internalID: 7726449677480576020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_218
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 166
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79d505be8775ec0800000000000000
+      internalID: -3578258426861611072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_219
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863aa6f0cda6f990800000000000000
+      internalID: -7352498297352079735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_220
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 166
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd09183ed6de1690800000000000000
+      internalID: -7629424468806791724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_221
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac313ba15b5bb5e0800000000000000
+      internalID: -1892818812056552277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_222
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 166
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614bb900734814410800000000000000
+      internalID: 1459593126013023254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_223
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 166
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11408f1d4f51a0340800000000000000
+      internalID: 4830697691547173905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23611de5e43786590800000000000000
+      internalID: -7680762384044976590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_225
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f47b0f5c5de84d0800000000000000
+      internalID: -3130329644852097226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_226
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da7fb8232f655e0800000000000000
+      internalID: -1921081892116386521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 62
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ec3ae3d66e8f40800000000000000
+      internalID: 5732632436043210890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_228
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ed32df33785690800000000000000
+      internalID: -7613208452122417758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_229
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 62
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1c155ccf495df0800000000000000
+      internalID: -191033770166706666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_230
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa833a061bfeda6d0800000000000000
+      internalID: -2977460233512470353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_231
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cfa6e822bad1510800000000000000
+      internalID: 1521560414027709478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_232
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 62
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2965d35e3a29b9af0800000000000000
+      internalID: -388555710214089070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_233
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 62
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a56a92719344e0800000000000000
+      internalID: -1998593888219716721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_234
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 62
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265db51bb5fb4bed0800000000000000
+      internalID: -2399082300943116958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_235
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad3a1f9949d98180800000000000000
+      internalID: -9112513460782350931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_236
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265f79f6efa112d90800000000000000
+      internalID: -7124383455427168926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_237
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e268cc024d46a40800000000000000
+      internalID: 5360642693813120629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_238
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69d87640fc3eaff0800000000000000
+      internalID: -23013945418131092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_239
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea8b3741f47190e0800000000000000
+      internalID: -2264900557959623962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_240
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cf84c443fa026e0800000000000000
+      internalID: -1864297606578373616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_241
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 62
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6652262825f929810800000000000000
+      internalID: 1770652780233631078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_242
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 62
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88883389e239a4790800000000000000
+      internalID: -7545056397374551928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_243
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 62
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f4bf03ae78e5450800000000000000
+      internalID: 6079445986910621463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_244
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa79ce09e9fde310800000000000000
+      internalID: 1436078635571837690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_245
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95faef192205f0350800000000000000
+      internalID: 5985090539207176025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_246
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 62
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be43d25aa536c7e0800000000000000
+      internalID: -1745648799909196107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_247
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aae584ec1f0b5180800000000000000
+      internalID: -9125683603168695643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_248
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 62
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e395492c41c2750800000000000000
+      internalID: 6281418406220086887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_249
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3156a6589e3ee60800000000000000
+      internalID: 7990486923110323170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_250
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 62
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91a2c0556bcb3c30800000000000000
+      internalID: 4340286301908672922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_251
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 62
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d09317f1a802ac0800000000000000
+      internalID: -3881951011145183998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1bd0c73c15411a0800000000000000
+      internalID: -6839752034027195917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_253
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3fb6757f2fac20800000000000000
+      internalID: 3219844440143117666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_254
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f39bb2af1f646410800000000000000
+      internalID: 1469421560094495733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_255
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c0c4875424e15b0800000000000000
+      internalID: -5395802437404849099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_256
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e6ef8f6a21b3f0800000000000000
+      internalID: -886880992971266449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_257
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbb576a664ffe190800000000000000
+      internalID: -7930851697059578946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_258
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d2eb6f00bcf1e0800000000000000
+      internalID: -2162660140763654226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_259
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d023e4f629694a0800000000000000
+      internalID: -6586916398231843452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_260
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040270c1bc648d860800000000000000
+      internalID: 7554866213076541504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_261
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3264a4a55629800800000000000000
+      internalID: 617667537370751947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_262
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27488f1036078ca40800000000000000
+      internalID: 5388680524685935730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_263
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc9cb954c577990800000000000000
+      internalID: -7388335209641816620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_264
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2da482868c42880800000000000000
+      internalID: -8636557835711622478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_265
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a96afba235162f80800000000000000
+      internalID: -8131788769792988759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_266
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be79dc7a640c929d0800000000000000
+      internalID: -2798494283738540053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_267
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef13a74e7651bfc0800000000000000
+      internalID: -3480905936612941850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_268
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ecf6b289ca30c0800000000000000
+      internalID: -4595138906525212441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_269
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 0
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c70111964a2bef90800000000000000
+      internalID: -6923393519582115904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_270
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb0204b5e276870800000000000000
+      internalID: 8675954176605338832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_271
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9812045204d21b0800000000000000
+      internalID: -5679813026310420002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_272
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e738e1554a55ab530800000000000000
+      internalID: 3871500993969423230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_273
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8669db0a276ff20800000000000000
+      internalID: 3456075798754519275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_274
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e485afffdfdd6010800000000000000
+      internalID: 1183848430228047080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_275
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c4c72c1918a770800000000000000
+      internalID: 8622169095317800510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_276
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c728506922f3370800000000000000
+      internalID: 8304394265627360377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_277
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5342536ea3e3d0800000000000000
+      internalID: -3178505170388296173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_278
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5524435dd2e380db0800000000000000
+      internalID: -4825538634156064171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriter_water_mark_279
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1d4960c8fbb0850800000000000000
+      internalID: 6344375108208218536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spriter_water_mark_0: -1721627151127917153
+      spriter_water_mark_1: 8966037060751727533
+      spriter_water_mark_10: 3266052044662303656
+      spriter_water_mark_100: -463232301870854508
+      spriter_water_mark_101: 4887481351329277159
+      spriter_water_mark_102: 1750861640301779043
+      spriter_water_mark_103: 6220068161689729210
+      spriter_water_mark_104: -4118684340053431268
+      spriter_water_mark_105: -8731104204326383554
+      spriter_water_mark_106: 8263321843550013325
+      spriter_water_mark_107: 1522566155300385910
+      spriter_water_mark_108: 8485347107172910438
+      spriter_water_mark_109: -8677512327463154690
+      spriter_water_mark_11: -7130166619158468239
+      spriter_water_mark_110: -3772901918053375841
+      spriter_water_mark_111: -2928120631523284142
+      spriter_water_mark_112: 2411879806363376521
+      spriter_water_mark_113: -1042052183341215142
+      spriter_water_mark_114: 2975739372268294307
+      spriter_water_mark_115: 8005293614425709880
+      spriter_water_mark_116: -7745185003081092706
+      spriter_water_mark_117: -940628691816618864
+      spriter_water_mark_118: -1179047447976832525
+      spriter_water_mark_119: -1540627528637554808
+      spriter_water_mark_12: -6973354650670646298
+      spriter_water_mark_120: 6079451630948904786
+      spriter_water_mark_121: -3287551950440039854
+      spriter_water_mark_122: 2998910403352150632
+      spriter_water_mark_123: 5106167538126754491
+      spriter_water_mark_124: 1571109114036726535
+      spriter_water_mark_125: 8436539297889850727
+      spriter_water_mark_126: -2932797776097689591
+      spriter_water_mark_127: -4317619082111700934
+      spriter_water_mark_128: 4014360396635926515
+      spriter_water_mark_129: 2806577246797944909
+      spriter_water_mark_13: -223147625731217482
+      spriter_water_mark_130: -8737872718541501720
+      spriter_water_mark_131: 2804302604428924539
+      spriter_water_mark_132: -2305027149274421116
+      spriter_water_mark_133: -6540676188135102602
+      spriter_water_mark_134: -6653451012901188137
+      spriter_water_mark_135: 4851615550951931494
+      spriter_water_mark_136: 2894180806701743883
+      spriter_water_mark_137: -6129303118064461212
+      spriter_water_mark_138: -8086705393816301490
+      spriter_water_mark_139: -7007352087774602627
+      spriter_water_mark_14: 7299833124076387497
+      spriter_water_mark_140: -4323726763182574222
+      spriter_water_mark_141: 5839712823061385252
+      spriter_water_mark_142: -8428543733835670291
+      spriter_water_mark_143: -2126166147501173216
+      spriter_water_mark_144: 8718687596513071738
+      spriter_water_mark_145: -1564675766130589350
+      spriter_water_mark_146: 7815986107010179223
+      spriter_water_mark_147: -172280362001473748
+      spriter_water_mark_148: 7151154199484886789
+      spriter_water_mark_149: -503701464334496535
+      spriter_water_mark_15: -176097954318761935
+      spriter_water_mark_150: 4956434806612148416
+      spriter_water_mark_151: 1858733849612240475
+      spriter_water_mark_152: -8909541892551565516
+      spriter_water_mark_153: -1013191899882109030
+      spriter_water_mark_154: 4296624354989357531
+      spriter_water_mark_155: -4055238595432208887
+      spriter_water_mark_156: -7417592644867126336
+      spriter_water_mark_157: 2277510962055260230
+      spriter_water_mark_158: -7441386887871389585
+      spriter_water_mark_159: 7219123464051511764
+      spriter_water_mark_16: 8539324786833939333
+      spriter_water_mark_160: 812425819268970874
+      spriter_water_mark_161: -7142381341173558312
+      spriter_water_mark_162: -4938052445775051141
+      spriter_water_mark_163: 1509885074681123307
+      spriter_water_mark_164: 3359320896043975249
+      spriter_water_mark_165: -812622954427170023
+      spriter_water_mark_166: 4868394435184806549
+      spriter_water_mark_167: -7757789558420765272
+      spriter_water_mark_168: 7466689554497141119
+      spriter_water_mark_169: -1323920331885368688
+      spriter_water_mark_17: -2463901204752359091
+      spriter_water_mark_170: 6153767808034045849
+      spriter_water_mark_171: 4995093541019808853
+      spriter_water_mark_172: 8767333321806979412
+      spriter_water_mark_173: -829653995721426418
+      spriter_water_mark_174: -3313718589976940938
+      spriter_water_mark_175: 5871631579963457817
+      spriter_water_mark_176: -1206214340127770452
+      spriter_water_mark_177: 6904665511955281965
+      spriter_water_mark_178: -4921323191540227485
+      spriter_water_mark_179: 7990654488371881989
+      spriter_water_mark_18: -3932841515418660001
+      spriter_water_mark_180: -4218063976215025290
+      spriter_water_mark_181: 8749283814666291279
+      spriter_water_mark_182: 1727402805665855040
+      spriter_water_mark_183: 2380756786512645408
+      spriter_water_mark_184: 671778215733679495
+      spriter_water_mark_185: 4336591694427197493
+      spriter_water_mark_186: 253837756223527671
+      spriter_water_mark_187: -1009827007483296499
+      spriter_water_mark_188: -2342243223336143659
+      spriter_water_mark_189: -7319808249919828028
+      spriter_water_mark_19: 6674141817472120008
+      spriter_water_mark_190: -3344509192835704671
+      spriter_water_mark_191: -177293052673070321
+      spriter_water_mark_192: -7191325125711537388
+      spriter_water_mark_193: 3616049192483341294
+      spriter_water_mark_194: 5280762933436093627
+      spriter_water_mark_195: 7538510722556718401
+      spriter_water_mark_196: -5325283830044082219
+      spriter_water_mark_197: -1061806995841543271
+      spriter_water_mark_198: -5507149021101371802
+      spriter_water_mark_199: -2647575532371605943
+      spriter_water_mark_2: -6216509992329238653
+      spriter_water_mark_20: 3480768805476653633
+      spriter_water_mark_200: -5157280677906112740
+      spriter_water_mark_201: -4165024445697247978
+      spriter_water_mark_202: 7807843702561891372
+      spriter_water_mark_203: 3239730637270260444
+      spriter_water_mark_204: -1011080897492287806
+      spriter_water_mark_205: 6999641533834398465
+      spriter_water_mark_206: -863780041211893327
+      spriter_water_mark_207: 6542098220776889955
+      spriter_water_mark_208: -1137235801297301699
+      spriter_water_mark_209: 193029451156696389
+      spriter_water_mark_21: 1842289836952810087
+      spriter_water_mark_210: 8160828064062086573
+      spriter_water_mark_211: -1574327435887828488
+      spriter_water_mark_212: -5114658040265091981
+      spriter_water_mark_213: -1846806062320327733
+      spriter_water_mark_214: 507667911322890225
+      spriter_water_mark_215: -8893809238204019278
+      spriter_water_mark_216: 7211729862399028557
+      spriter_water_mark_217: 7726449677480576020
+      spriter_water_mark_218: -3578258426861611072
+      spriter_water_mark_219: -7352498297352079735
+      spriter_water_mark_22: -6003666459205727167
+      spriter_water_mark_220: -7629424468806791724
+      spriter_water_mark_221: -1892818812056552277
+      spriter_water_mark_222: 1459593126013023254
+      spriter_water_mark_223: 4830697691547173905
+      spriter_water_mark_224: -7680762384044976590
+      spriter_water_mark_225: -3130329644852097226
+      spriter_water_mark_226: -1921081892116386521
+      spriter_water_mark_227: 5732632436043210890
+      spriter_water_mark_228: -7613208452122417758
+      spriter_water_mark_229: -191033770166706666
+      spriter_water_mark_23: -6197237858939788815
+      spriter_water_mark_230: -2977460233512470353
+      spriter_water_mark_231: 1521560414027709478
+      spriter_water_mark_232: -388555710214089070
+      spriter_water_mark_233: -1998593888219716721
+      spriter_water_mark_234: -2399082300943116958
+      spriter_water_mark_235: -9112513460782350931
+      spriter_water_mark_236: -7124383455427168926
+      spriter_water_mark_237: 5360642693813120629
+      spriter_water_mark_238: -23013945418131092
+      spriter_water_mark_239: -2264900557959623962
+      spriter_water_mark_24: 4929021633736537154
+      spriter_water_mark_240: -1864297606578373616
+      spriter_water_mark_241: 1770652780233631078
+      spriter_water_mark_242: -7545056397374551928
+      spriter_water_mark_243: 6079445986910621463
+      spriter_water_mark_244: 1436078635571837690
+      spriter_water_mark_245: 5985090539207176025
+      spriter_water_mark_246: -1745648799909196107
+      spriter_water_mark_247: -9125683603168695643
+      spriter_water_mark_248: 6281418406220086887
+      spriter_water_mark_249: 7990486923110323170
+      spriter_water_mark_25: 2855003522144960516
+      spriter_water_mark_250: 4340286301908672922
+      spriter_water_mark_251: -3881951011145183998
+      spriter_water_mark_252: -6839752034027195917
+      spriter_water_mark_253: 3219844440143117666
+      spriter_water_mark_254: 1469421560094495733
+      spriter_water_mark_255: -5395802437404849099
+      spriter_water_mark_256: -886880992971266449
+      spriter_water_mark_257: -7930851697059578946
+      spriter_water_mark_258: -2162660140763654226
+      spriter_water_mark_259: -6586916398231843452
+      spriter_water_mark_26: 4986113603635793257
+      spriter_water_mark_260: 7554866213076541504
+      spriter_water_mark_261: 617667537370751947
+      spriter_water_mark_262: 5388680524685935730
+      spriter_water_mark_263: -7388335209641816620
+      spriter_water_mark_264: -8636557835711622478
+      spriter_water_mark_265: -8131788769792988759
+      spriter_water_mark_266: -2798494283738540053
+      spriter_water_mark_267: -3480905936612941850
+      spriter_water_mark_268: -4595138906525212441
+      spriter_water_mark_269: -6923393519582115904
+      spriter_water_mark_27: -5438661932794872793
+      spriter_water_mark_270: 8675954176605338832
+      spriter_water_mark_271: -5679813026310420002
+      spriter_water_mark_272: 3871500993969423230
+      spriter_water_mark_273: 3456075798754519275
+      spriter_water_mark_274: 1183848430228047080
+      spriter_water_mark_275: 8622169095317800510
+      spriter_water_mark_276: 8304394265627360377
+      spriter_water_mark_277: -3178505170388296173
+      spriter_water_mark_278: -4825538634156064171
+      spriter_water_mark_279: 6344375108208218536
+      spriter_water_mark_28: -6410617517633052508
+      spriter_water_mark_29: 7522412325695064535
+      spriter_water_mark_3: -3348308724234470351
+      spriter_water_mark_30: -8601591204120283571
+      spriter_water_mark_31: -1520587524757808806
+      spriter_water_mark_32: -1426157605151717763
+      spriter_water_mark_33: -3163571189711705682
+      spriter_water_mark_34: -8389607452297379517
+      spriter_water_mark_35: -8160588185193119315
+      spriter_water_mark_36: -369722573747124970
+      spriter_water_mark_37: -5011355840351338272
+      spriter_water_mark_38: -336918381152550982
+      spriter_water_mark_39: 6892637915359399785
+      spriter_water_mark_4: 3746971379474629540
+      spriter_water_mark_40: 8206988794077471862
+      spriter_water_mark_41: -3173965435190916269
+      spriter_water_mark_42: 7832009325659712481
+      spriter_water_mark_43: -8885495620210154613
+      spriter_water_mark_44: -5611673238063117935
+      spriter_water_mark_45: -8997558567704666357
+      spriter_water_mark_46: 5730779471212883622
+      spriter_water_mark_47: 5824034958387526143
+      spriter_water_mark_48: -2416485125502776876
+      spriter_water_mark_49: -385075684234957815
+      spriter_water_mark_5: 4735197134195893418
+      spriter_water_mark_50: -1318264280551006803
+      spriter_water_mark_51: 7698267271066828080
+      spriter_water_mark_52: -6415090148710257794
+      spriter_water_mark_53: -8785208036232687315
+      spriter_water_mark_54: 6397976672675588869
+      spriter_water_mark_55: 202659198630220769
+      spriter_water_mark_56: 8129850258450175509
+      spriter_water_mark_57: 7005194218223631079
+      spriter_water_mark_58: 1180138302862387543
+      spriter_water_mark_59: 6833728286776528140
+      spriter_water_mark_6: 6582844139825235135
+      spriter_water_mark_60: -6463329626712677575
+      spriter_water_mark_61: -3578356982283335849
+      spriter_water_mark_62: 8246473760832595212
+      spriter_water_mark_63: 1851840444381091256
+      spriter_water_mark_64: 8265127329015477103
+      spriter_water_mark_65: -6530735717737351719
+      spriter_water_mark_66: 7729577565086158458
+      spriter_water_mark_67: 6962035097508691769
+      spriter_water_mark_68: -410840808298351383
+      spriter_water_mark_69: 2383069083642215746
+      spriter_water_mark_7: -2730427503007388635
+      spriter_water_mark_70: 1660832759943160633
+      spriter_water_mark_71: -7288747922366430763
+      spriter_water_mark_72: 4253300802021498621
+      spriter_water_mark_73: 9108114963190581400
+      spriter_water_mark_74: -6746531011718224246
+      spriter_water_mark_75: 7411476879534508902
+      spriter_water_mark_76: 1526243201538164956
+      spriter_water_mark_77: 3934721841793696156
+      spriter_water_mark_78: 6442628647845880343
+      spriter_water_mark_79: -6512021581612147797
+      spriter_water_mark_8: -3817894492645863721
+      spriter_water_mark_80: -8558287278208629792
+      spriter_water_mark_81: -7782485171096521634
+      spriter_water_mark_82: -6682458227326239673
+      spriter_water_mark_83: -1386511440087983605
+      spriter_water_mark_84: 4126350197320017073
+      spriter_water_mark_85: 6068975305325101340
+      spriter_water_mark_86: 206151474722069124
+      spriter_water_mark_87: 4958252402931143905
+      spriter_water_mark_88: -3235556720051257763
+      spriter_water_mark_89: -5551355670410655964
+      spriter_water_mark_9: 6005679073998937894
+      spriter_water_mark_90: 7903359309668031747
+      spriter_water_mark_91: 1083951064816846360
+      spriter_water_mark_92: 2570792955853585396
+      spriter_water_mark_93: -6449840728452604612
+      spriter_water_mark_94: -3236813984200297432
+      spriter_water_mark_95: -3304615818712043741
+      spriter_water_mark_96: -4020618160717234644
+      spriter_water_mark_97: 7932365713860362038
+      spriter_water_mark_98: -8295534712482471511
+      spriter_water_mark_99: 8492110637509144538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
