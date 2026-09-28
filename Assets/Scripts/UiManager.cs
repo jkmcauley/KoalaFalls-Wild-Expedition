@@ -66,6 +66,7 @@ public class UiManager : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
         SceneManager.sceneLoaded += OnSceneLoaded;
+        EnsureTouchFix();
 
     }
 
@@ -84,6 +85,15 @@ public class UiManager : MonoBehaviour
     {
         _lighting.Clear();
         BindHud();
+        EnsureTouchFix()?.FixAll();
+    }
+
+    TouchControlsFix EnsureTouchFix()
+    {
+        TouchControlsFix fix = GetComponent<TouchControlsFix>();
+        if (fix == null)
+            fix = gameObject.AddComponent<TouchControlsFix>();
+        return fix;
     }
 
     void BindHud()
