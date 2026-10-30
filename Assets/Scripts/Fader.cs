@@ -34,14 +34,21 @@ public class Fader : MonoBehaviour
     {
         _skipStartFade = true;
         EnsureFadePanel();
-        SetAlpha(1f);
+        SetAlpha(0f);
     }
 
     public void SetAlpha(float alpha)
     {
         EnsureFadePanel();
         _cg.alpha = alpha;
-        _cg.blocksRaycasts = alpha > 0.01f;
+        bool block = alpha > 0.01f;
+        _cg.blocksRaycasts = block;
+        Image fadeImage = _cg.GetComponent<Image>();
+        if (fadeImage != null)
+            fadeImage.raycastTarget = block;
+        GraphicRaycaster raycaster = GetComponent<GraphicRaycaster>();
+        if (raycaster != null)
+            raycaster.enabled = block;
     }
 
     public void FadeOut(float seconds)
@@ -83,9 +90,10 @@ public class Fader : MonoBehaviour
         _cg = panel.GetComponent<CanvasGroup>();
         if (_cg == null)
             _cg = panel.AddComponent<CanvasGroup>();
-        _cg.alpha = gameObject.name == "FadeCanvas" ? 1f : 0f;
+        _cg.alpha = 0f;
         _cg.blocksRaycasts = _cg.alpha > 0.01f;
         _cg.interactable = false;
+        image.raycastTarget = _cg.blocksRaycasts;
     }
 
     IEnumerator FadeRoutine(float seconds, float from, float to)
@@ -94,11 +102,13 @@ public class Fader : MonoBehaviour
             yield break;
 
         _cg.blocksRaycasts = true;
+        Image fadeImage = _cg.GetComponent<Image>();
+        if (fadeImage != null)
+            fadeImage.raycastTarget = true;
         _cg.alpha = from;
         if (seconds <= 0f)
         {
-            _cg.alpha = to;
-            _cg.blocksRaycasts = to > 0.01f;
+            SetAlpha(to);
             yield break;
         }
 
@@ -110,7 +120,6 @@ public class Fader : MonoBehaviour
             yield return null;
         }
 
-        _cg.alpha = to;
-        _cg.blocksRaycasts = to > 0.01f;
+        SetAlpha(to);
     }
 }

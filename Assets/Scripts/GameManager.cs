@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -41,6 +42,7 @@ public class GameManager : MonoBehaviour
     static bool _hasExtraLife;
     static bool _hasHealthBoost;
     static bool _hasStrongDart;
+    static bool _hasGrenade;
     static int _coins;
     static int _lives = 3;
     static int _koalasRescued;
@@ -54,11 +56,13 @@ public class GameManager : MonoBehaviour
     public bool HasExtraLife { get => _hasExtraLife; set => _hasExtraLife = value; }
     public bool HasHealthBoost { get => _hasHealthBoost; set => _hasHealthBoost = value; }
     public bool HasStrongDart { get => _hasStrongDart; set => _hasStrongDart = value; }
+    public bool HasGrenade { get => _hasGrenade; set => _hasGrenade = value; }
     public int Coins { get => _coins; set => _coins = value; }
     public int Lives { get => _lives; set => _lives = value; }
     public int KoalasRescued { get => _koalasRescued; private set => _koalasRescued = value; }
     Fader _fader;
     bool _loading;
+    RectTransform _startButton;
     [SerializeField] float _fadeTime = 0.5f;
 
 
@@ -69,6 +73,9 @@ public class GameManager : MonoBehaviour
 
         if (_instance != null && _instance != this)
         {
+            SoundManager incoming = GetComponent<SoundManager>();
+            if (incoming != null)
+                SoundManager.Instance?.Adopt(incoming);
             Destroy(gameObject);
             return;
         }
@@ -77,6 +84,8 @@ public class GameManager : MonoBehaviour
         if (transform.parent != null)
             transform.SetParent(null);
         DontDestroyOnLoad(gameObject);
+        Application.targetFrameRate = MobilePerf.TargetFps;
+        QualitySettings.vSyncCount = 0;
         EnsureTransitionFader();
 
     }
@@ -96,6 +105,7 @@ public class GameManager : MonoBehaviour
         LimitWaterfallAudio();
         ApplyPurchasesToScene();
         HideRescuedKoalas();
+        BindStartButton();
         if (_fader != null)
             _fader.FadeOut(_fadeTime);
     }
@@ -109,6 +119,44 @@ public class GameManager : MonoBehaviour
         HideRescuedKoalas();
         if (UiManager.Instance != null)
             UiManager.Instance.UpdateKoalaScoreUi(KoalasRescued);
+        BindStartButton();
+    }
+
+    void BindStartButton()
+    {
+        _startButton = null;
+        if (SceneManager.GetActiveScene().buildIndex != 0)
+            return;
+        GameObject start = GameObject.Find("Start");
+        if (start != null)
+            _startButton = start.transform as RectTransform;
+    }
+
+    void Update()
+    {
+        if (_loading || _startButton == null)
+            return;
+        if (!PrimaryPressedThisFrame())
+            return;
+        Vector2 screen = PrimaryScreenPoint();
+        if (RectTransformUtility.RectangleContainsScreenPoint(_startButton, screen, null))
+            StartGame();
+    }
+
+    static bool PrimaryPressedThisFrame()
+    {
+        if (Touchscreen.current != null && Touchscreen.current.primaryTouch.press.wasPressedThisFrame)
+            return true;
+        return Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame;
+    }
+
+    static Vector2 PrimaryScreenPoint()
+    {
+        if (Touchscreen.current != null && Touchscreen.current.primaryTouch.press.isPressed)
+            return Touchscreen.current.primaryTouch.position.ReadValue();
+        if (Mouse.current != null)
+            return Mouse.current.position.ReadValue();
+        return Vector2.zero;
     }
 
     public void SaveCoins(int coins)
@@ -162,6 +210,7 @@ public class GameManager : MonoBehaviour
     {
         HasClimb = true;
         HasKeyKoala = true;
+        HasStrongDart = true;
     }
 
     public void ApplyLateUpgrades(Player player)
@@ -181,21 +230,18 @@ public class GameManager : MonoBehaviour
 
     public void EnableLadders()
     {
-        Transform[] transforms = FindObjectsByType<Transform>(FindObjectsInactive.Include, FindObjectsSortMode.None);
-        for (int i = 0; i < transforms.Length; i++)
-        {
-            Transform t = transforms[i];
-            if (t == null)
-                continue;
-            if (t.name == "Ladder" || t.name == "Ladder (2)")
-                t.gameObject.SetActive(true);
-        }
+        GameObject ladder = GameObject.Find("Ladder");
+        if (ladder != null)
+            ladder.SetActive(true);
+        GameObject ladder2 = GameObject.Find("Ladder (2)");
+        if (ladder2 != null)
+            ladder2.SetActive(true);
     }
 
     void LimitWaterfallAudio()
     {
         AudioSource keep = null;
-        AudioSource[] sources = FindObjectsByType<AudioSource>(FindObjectsInactive.Include, FindObjectsSortMode.None);
+        AudioSource[] sources = FindObjectsByType<AudioSource>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
         for (int i = 0; i < sources.Length; i++)
         {
             AudioSource source = sources[i];
@@ -276,6 +322,7 @@ public class GameManager : MonoBehaviour
         HasExtraLife = false;
         HasHealthBoost = false;
         HasStrongDart = false;
+        HasGrenade = false;
         Coins = 0;
         _coinsSaved = false;
         SaveLives(3);
@@ -315,11 +362,34 @@ public class GameManager : MonoBehaviour
             yield return new WaitForSecondsRealtime(_fadeTime);
         }
 
+        if (ShouldShowInterstitial(sceneIndex))
+            yield return ShowInterstitialThenContinue();
+
         SceneManager.LoadScene(sceneIndex);
         yield return null;
         if (_fader != null)
             _fader.FadeOut(_fadeTime);
         _loading = false;
+    }
+
+    static bool ShouldShowInterstitial(int sceneIndex)
+    {
+        int current = SceneManager.GetActiveScene().buildIndex;
+        return current > 0 && sceneIndex > 0 && sceneIndex != current;
+    }
+
+    static IEnumerator ShowInterstitialThenContinue()
+    {
+        bool adDone = AdsManager.Instance == null;
+        if (!adDone)
+            AdsManager.Instance.ShowInterstitial(() => adDone = true);
+
+        float waited = 0f;
+        while (!adDone && waited < 90f)
+        {
+            waited += Time.unscaledDeltaTime;
+            yield return null;
+        }
     }
 
     public void StartGame()

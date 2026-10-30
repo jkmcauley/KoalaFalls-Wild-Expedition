@@ -39,6 +39,7 @@ public abstract class EnemyAI : MonoBehaviour, IDamageable, IDamager
         get => _health;
         set => _health = value;
     }
+    public bool IsDead => _isDead;
     public int Coins => _coins;
     public float MoveSpeed => _moveSpeed;
     public float Damage
@@ -75,9 +76,12 @@ public abstract class EnemyAI : MonoBehaviour, IDamageable, IDamager
     public virtual void SetPatrolZone(PatrolZone zone)
     {
         _patrolZone = zone;
-        Vector3 spawn = transform.position;
-        spawn.x = _patrolZone.PointA.position.x;
-        transform.position = spawn;
+        if (!PointsMoveWithThis())
+        {
+            Vector3 spawn = transform.position;
+            spawn.x = _patrolZone.PointA.position.x;
+            transform.position = spawn;
+        }
         _target = _patrolZone.PointB;
         FaceTarget();
         StopAllCoroutines();
@@ -216,7 +220,8 @@ public abstract class EnemyAI : MonoBehaviour, IDamageable, IDamager
             return;
         }
 
-        float direction = Mathf.Sign(_player.transform.position.x - transform.position.x);
+        float origin = _spriteRenderer != null ? _spriteRenderer.bounds.center.x : transform.position.x;
+        float direction = Mathf.Sign(_player.transform.position.x - origin);
         _rb.linearVelocity = new Vector2(direction * _moveSpeed, _rb.linearVelocity.y);
     }
 
@@ -251,6 +256,15 @@ public abstract class EnemyAI : MonoBehaviour, IDamageable, IDamager
         }
     }
 
+    bool PointsMoveWithThis()
+    {
+        if (_patrolZone == null)
+            return false;
+        Transform a = _patrolZone.PointA;
+        Transform b = _patrolZone.PointB;
+        return (a != null && a.IsChildOf(transform)) || (b != null && b.IsChildOf(transform));
+    }
+
     protected virtual void SwitchTarget()
     {
         _target = _target == _patrolZone.PointA ? _patrolZone.PointB : _patrolZone.PointA;
@@ -272,20 +286,22 @@ public abstract class EnemyAI : MonoBehaviour, IDamageable, IDamager
     {
         if (_spriteRenderer == null)
             return;
-        float direction = worldX - transform.position.x;
+
+        float origin = _spriteRenderer.bounds.center.x;
+        float direction = worldX - origin;
         bool flip;
-        if (direction > 0f)
+        if (direction > 0.05f)
             flip = _spriteFacesLeft;
-        else if (direction < 0f)
+        else if (direction < -0.05f)
             flip = !_spriteFacesLeft;
         else
             return;
         if (_spriteRenderer.flipX == flip)
             return;
 
-        float visualX = _spriteRenderer.bounds.center.x;
+        float centerOffset = origin - transform.position.x;
         _spriteRenderer.flipX = flip;
-        transform.position += new Vector3(visualX - _spriteRenderer.bounds.center.x, 0f, 0f);
+        transform.position += new Vector3(centerOffset * 2f, 0f, 0f);
     }
 
     protected virtual IEnumerator StartPatrol()
@@ -392,8 +408,13 @@ public abstract class EnemyAI : MonoBehaviour, IDamageable, IDamager
         StopMoving();
         if (_animator != null)
             _animator.SetBool("isDead", true);
+        OnDeath();
         if (!_stayAsleepThisLevel)
             StartCoroutine(AwakeFromSleep());
+    }
+
+    protected virtual void OnDeath()
+    {
     }
 
     protected virtual IEnumerator AwakeFromSleep()

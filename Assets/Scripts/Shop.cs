@@ -15,6 +15,7 @@ public class Shop : MonoBehaviour
     public const int ExtraLife = 3;
     public const int HealthBoost = 4;
     public const int StrongDart = 5;
+    public const int Grenade = 6;
 
     [SerializeField] private GameObject _panel;
     [SerializeField] private Catalog _catalog = Catalog.Early;
@@ -34,12 +35,14 @@ public class Shop : MonoBehaviour
     [SerializeField] private int _healthBoostPrice = 300;
     [FormerlySerializedAs("_damageBoostPrice")]
     [SerializeField] private int _strongDartPrice = 300;
+    [SerializeField] private int _grenadePrice = 300;
     [SerializeField] private TMPro.TextMeshProUGUI _extraLifePriceText;
     [SerializeField] private TMPro.TextMeshProUGUI _healthBoostPriceText;
     [FormerlySerializedAs("_damageBoostPriceText")]
     [SerializeField] private TMPro.TextMeshProUGUI _strongDartPriceText;
     [SerializeField] private GameObject _ladder;
     [SerializeField] private GameObject[] _hudButtons;
+    [SerializeField] private int _adRewardCoins = 200;
 
     private int _selectedItem = -1;
     private int _selectedPrice;
@@ -156,7 +159,10 @@ public class Shop : MonoBehaviour
         SetPriceLabel(_keyPriceText, _keyPrice, IsOwned(Key));
         SetPriceLabel(_extraLifePriceText, _extraLifePrice, IsOwned(ExtraLife));
         SetPriceLabel(_healthBoostPriceText, _healthBoostPrice, IsOwned(HealthBoost));
-        SetPriceLabel(_strongDartPriceText, _strongDartPrice, IsOwned(StrongDart));
+        if (_catalog == Catalog.Late)
+            SetPriceLabel(_strongDartPriceText, _grenadePrice, IsOwned(Grenade));
+        else
+            SetPriceLabel(_strongDartPriceText, _strongDartPrice, IsOwned(StrongDart));
     }
 
     static void SetPriceLabel(TMPro.TextMeshProUGUI label, int price, bool owned)
@@ -169,7 +175,7 @@ public class Shop : MonoBehaviour
     public void SelectItem(int item)
     {
         if (_catalog == Catalog.Late && item >= Venom && item <= Key)
-            item += ExtraLife;
+            item = item == Key ? Grenade : item + ExtraLife;
         _selectedItem = item;
         _selectedPrice = PriceFor(item);
         if (_selectedPrice < 0)
@@ -215,6 +221,35 @@ public class Shop : MonoBehaviour
         RefreshGemCount();
     }
 
+    public void WatchAdForCoins()
+    {
+        if (_player == null)
+            _player = FindFirstObjectByType<Player>();
+        if (_player == null)
+            return;
+
+        if (AdsManager.Instance == null)
+        {
+            Debug.Log("Rewarded ad is not ready.");
+            return;
+        }
+
+        AdsManager.Instance.ShowRewarded(GrantAdCoins);
+    }
+
+    void GrantAdCoins()
+    {
+        if (_player == null)
+            return;
+
+        _player._coinValue += _adRewardCoins;
+        if (GameManager.Instance != null)
+            GameManager.Instance.SaveCoins(_player._coinValue);
+        if (SoundManager.Instance != null)
+            SoundManager.Instance.PlayCoin();
+        RefreshGemCount();
+    }
+
     int PriceFor(int item)
     {
         switch (item)
@@ -225,6 +260,7 @@ public class Shop : MonoBehaviour
             case ExtraLife: return _extraLifePrice;
             case HealthBoost: return _healthBoostPrice;
             case StrongDart: return _strongDartPrice;
+            case Grenade: return _grenadePrice;
             default: return -1;
         }
     }
@@ -251,6 +287,8 @@ public class Shop : MonoBehaviour
                 return GameManager.Instance != null && GameManager.Instance.HasHealthBoost;
             case StrongDart:
                 return GameManager.Instance != null && GameManager.Instance.HasStrongDart;
+            case Grenade:
+                return GameManager.Instance != null && GameManager.Instance.HasGrenade;
             default:
                 return false;
         }
@@ -293,6 +331,9 @@ public class Shop : MonoBehaviour
                 break;
             case StrongDart:
                 GameManager.Instance.HasStrongDart = true;
+                break;
+            case Grenade:
+                GameManager.Instance.HasGrenade = true;
                 break;
         }
     }

@@ -6,6 +6,8 @@ public class Player : MonoBehaviour, IDamageable, IDamager
 {
     [SerializeField] private float _moveSpeed = 5f;
     [SerializeField] private float _runSpeed = 9f;
+    [SerializeField] private float _androidMoveSpeed = 4f;
+    [SerializeField] private float _androidRunSpeed = 6f;
     [SerializeField] private float _runAfter = 0.35f;
     [SerializeField] private float _runAcceleration = 8f;
     [SerializeField] private float _deceleration = 30f;
@@ -19,12 +21,22 @@ public class Player : MonoBehaviour, IDamageable, IDamager
     [SerializeField] private float _wallSlideSpeed = 3f;
     [SerializeField] private float _wallJumpLock = 0.12f;
     [SerializeField] private GameObject _dartPrefab;
+    [SerializeField] private GameObject _grenadePrefab;
     [SerializeField] private Transform _muzzlePoint;
     [SerializeField] private float _fireRate = .5f;
     [SerializeField] private float _meleeRange = 1.35f;
     [SerializeField] private float _stabTime = 0.9f;
+    [SerializeField] private float _throwHold = 0.35f;
+    [SerializeField] private float _throwTime = 0.58f;
+    [SerializeField] private float _throwRelease = 0.25f;
     private float _nextFireTime;
     private float _stabUntil;
+    private float _throwUntil;
+    private float _spawnGrenadeAt;
+    private float _attackCharge;
+    private float _shootPoseUntil;
+    private bool _chargingAttack;
+    private bool _threwThisPress;
     private bool _fellOutOfLevel;
 
     private Rigidbody2D _rb;
@@ -48,6 +60,9 @@ public class Player : MonoBehaviour, IDamageable, IDamager
     private readonly Collider2D[] _meleeHits = new Collider2D[8];
     private bool _isShooting;
     public bool _isStabbing;
+    private bool _isThrowing;
+    private float _bounceSpeed;
+    private bool _bounceLock;
     bool _isDead;
     public int _lives = 3;
     public int _maxLives;
@@ -98,6 +113,10 @@ public class Player : MonoBehaviour, IDamageable, IDamager
         _moveAction = _inputs.Player.Move;
         _jumpAction = _inputs.Player.Jump;
         _attackAction = _inputs.Player.Attack;
+#if UNITY_ANDROID && !UNITY_EDITOR
+        _moveSpeed = _androidMoveSpeed;
+        _runSpeed = _androidRunSpeed;
+#endif
         _maxHealth = _health;
         _maxLives = _lives;
     }
@@ -136,6 +155,9 @@ public class Player : MonoBehaviour, IDamageable, IDamager
             return;
 
         _moveInput = _moveAction.ReadValue<Vector2>();
+        Vector2 stick = TouchControlsFix.Move;
+        if (stick.sqrMagnitude > _moveInput.sqrMagnitude)
+            _moveInput = stick;
         CheckGround();
         CheckWall();
 
@@ -146,7 +168,7 @@ public class Player : MonoBehaviour, IDamageable, IDamager
         }
         _wasGrounded = _isGrounded;
 
-        if (_jumpAction.WasPressedThisFrame())
+        if (_jumpAction.WasPressedThisFrame() || TouchControlsFix.JumpPressed)
         {
             if (!_isGrounded && _onWall)
                 WallJump();
@@ -160,15 +182,49 @@ public class Player : MonoBehaviour, IDamageable, IDamager
      
 
         _isStabbing = Time.time < _stabUntil;
-        bool close = EnemyInMelee();
-        _isShooting = !_isStabbing && !close && _attackAction.IsPressed();
-        if (_attackAction.WasPressedThisFrame() && !_isStabbing)
+        _isThrowing = Time.time < _throwUntil;
+        if (_spawnGrenadeAt > 0f && Time.time >= _spawnGrenadeAt)
         {
+            _spawnGrenadeAt = 0f;
+            SpawnGrenade();
+        }
+
+        bool attackDown = _attackAction.WasPressedThisFrame() || TouchControlsFix.AttackPressed;
+        bool attackHeld = _attackAction.IsPressed() || TouchControlsFix.AttackHeld;
+        bool close = EnemyInMelee();
+
+        if (_isThrowing || _isStabbing)
+            _chargingAttack = false;
+
+        if (attackDown && !_isThrowing && !_isStabbing)
+        {
+            _threwThisPress = false;
             if (close)
                 Stab();
+            else if (OwnsGrenade())
+            {
+                _chargingAttack = true;
+                _attackCharge = 0f;
+            }
             else
                 Shoot();
         }
+
+        if (_chargingAttack && attackHeld)
+        {
+            _attackCharge += Time.deltaTime;
+            if (_attackCharge >= _throwHold)
+                Throw();
+        }
+        else if (_chargingAttack)
+        {
+            _chargingAttack = false;
+            if (!EnemyInMelee())
+                Shoot();
+        }
+
+        _isShooting = !_isStabbing && !_isThrowing && !_chargingAttack && !_threwThisPress && !close
+            && (attackHeld || Time.time < _shootPoseUntil);
 
         if (Mathf.Abs(_moveInput.x) > 0.1f)
             _hold += Time.deltaTime;
@@ -192,6 +248,7 @@ public class Player : MonoBehaviour, IDamageable, IDamager
         _anim.SetBool("isJumping", !_isGrounded && _jumps > 0);
         _anim.SetBool("isShooting", _isShooting);
         _anim.SetBool("isStabbing", _isStabbing);
+        _anim.SetBool("isThrowing", _isThrowing);
     }
 
     void FixedUpdate()
@@ -222,8 +279,18 @@ public class Player : MonoBehaviour, IDamageable, IDamager
             }
         }
 
-        if (_isGrounded && _jumps == 0 && vy > 0f)
+        if (_bounceLock && !_isGrounded)
+            _bounceLock = false;
+        if (!_bounceLock && _isGrounded && _jumps == 0 && vy > 0f)
             vy = 0f;
+        if (_bounceSpeed > 0f)
+        {
+            vy = _bounceSpeed;
+            _bounceSpeed = 0f;
+            _bounceLock = true;
+            if (_jumps == 0)
+                _jumps = 1;
+        }
         if (!_isGrounded && _onWall && vy < -_wallSlideSpeed)
             vy = -_wallSlideSpeed;
 
@@ -252,9 +319,13 @@ public class Player : MonoBehaviour, IDamageable, IDamager
 
     void Stab()
     {
+        _chargingAttack = false;
         _isStabbing = true;
         _stabUntil = Time.time + _stabTime;
         _isShooting = false;
+        _isThrowing = false;
+        _throwUntil = 0f;
+        _spawnGrenadeAt = 0f;
         HitEnemiesInMelee();
     }
 
@@ -264,6 +335,40 @@ public class Player : MonoBehaviour, IDamageable, IDamager
             return;
 
         _nextFireTime = Time.time + _fireRate;
+        _shootPoseUntil = Time.time + 0.35f;
+        SpawnProjectile(_dartPrefab);
+        SoundManager.Instance?.PlayShoot();
+    }
+
+    void Throw()
+    {
+        _chargingAttack = false;
+        _threwThisPress = true;
+        _isThrowing = true;
+        _isShooting = false;
+        _shootPoseUntil = 0f;
+        _throwUntil = Time.time + _throwTime;
+        _spawnGrenadeAt = Time.time + _throwRelease;
+    }
+
+    bool OwnsGrenade()
+    {
+        return _grenadePrefab != null
+            && GameManager.Instance != null
+            && GameManager.Instance.HasGrenade;
+    }
+
+    void SpawnGrenade()
+    {
+        if (!OwnsGrenade())
+            return;
+        SpawnProjectile(_grenadePrefab);
+    }
+
+    void SpawnProjectile(GameObject prefab)
+    {
+        if (prefab == null)
+            return;
 
         Transform spawn = _muzzlePoint != null ? _muzzlePoint : transform;
         bool faceLeft = _sprite != null && _sprite.flipX;
@@ -271,8 +376,7 @@ public class Player : MonoBehaviour, IDamageable, IDamager
         if (faceLeft)
             pos.x = transform.position.x - (spawn.position.x - transform.position.x);
         Quaternion rot = faceLeft ? Quaternion.Euler(0f, 180f, 0f) : Quaternion.identity;
-        Instantiate(_dartPrefab, pos, rot);
-        SoundManager.Instance?.PlayShoot();
+        Instantiate(prefab, pos, rot);
     }
 
     bool EnemyInMelee()
@@ -307,7 +411,7 @@ public class Player : MonoBehaviour, IDamageable, IDamager
             if (hit == null || hit == _col)
                 continue;
             EnemyAI enemy = hit.GetComponent<EnemyAI>() ?? hit.GetComponentInParent<EnemyAI>();
-            if (enemy == null)
+            if (enemy == null || enemy.IsDead)
                 continue;
             found = true;
             onHit?.Invoke(enemy);
@@ -371,6 +475,13 @@ public class Player : MonoBehaviour, IDamageable, IDamager
         _dustParticles.Play();
     }
 
+    public void Bounce(float speed)
+    {
+        if (_isDead || _rb == null || speed <= 0f)
+            return;
+        _bounceSpeed = speed;
+    }
+
     public void KnockBack(Vector2 velocity, float lockTime = 0.2f)
     {
         if (_rb == null || _isDead)
@@ -407,10 +518,18 @@ public class Player : MonoBehaviour, IDamageable, IDamager
         _isDead = true;
         _isStabbing = false;
         _isShooting = false;
+        _isThrowing = false;
+        _chargingAttack = false;
+        _throwUntil = 0f;
+        _spawnGrenadeAt = 0f;
         if (_rb != null)
             _rb.linearVelocity = new Vector2(0f, _rb.linearVelocity.y);
         if (_anim != null)
+        {
+            _anim.SetBool("isThrowing", false);
+            _anim.SetBool("isShooting", false);
             _anim.SetBool("isDead", true);
+        }
         LoseLife();
     }
 
